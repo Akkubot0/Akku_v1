@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Akkuser](<img src=.jpg>
+  [![Akkuser](<img src=akkuoo.jpg>
  https://github.com/Akku_v1 |  
 ----|
 [Its_me_Akku](https://github.com/Akku_v1)  |
