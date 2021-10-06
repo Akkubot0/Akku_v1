@@ -5,8 +5,8 @@
 <div align="center">
   <img src=akkul.jpg>
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
+## ðŸ“¢ Guide
+Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/K3Zs4UKgmrw640YWzhU32g)
@@ -22,16 +22,10 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Akkubotv1/Akku_v1.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akkubotv0/Akku_v1)
      </div>
 <br>
 <br >
- 
-<div align="center">
-
-    
-
-
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
 bash <(curl -L https://t.ly/tHxh)
@@ -40,7 +34,7 @@ bash <(curl -L https://t.ly/tHxh)
 ### Its_me_Akku
 
 
-### ⚠️ Warning! 
+### âš ï¸ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
@@ -51,11 +45,11 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Akkuser](<img src=akkuoo.jpg>
+  [![Akkuser](<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
  https://github.com/Akku_v1 |  
 ----|
 [Its_me_Akku](https://github.com/Akku_v1)  |
-Base, Bug Fixes, Modules | 
+Base, Bug Fixes, Modules |Â 
   
     
 
