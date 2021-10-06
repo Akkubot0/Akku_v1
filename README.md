@@ -22,10 +22,16 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Akku_v1)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/Akkubotv1/Akku_v1.git)
      </div>
 <br>
 <br >
+ 
+<div align="center">
+
+    
+
+
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
 bash <(curl -L https://t.ly/tHxh)
